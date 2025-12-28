@@ -1,6 +1,6 @@
 # 🗂️ My Task Board
 
-**My Task Board App** is a full-stack task management application built as part of a *devChallenges.io* challenge and expanded with additional features to better reflect a real-world product.
+**My Task Board** is a full-stack task management application built as part of a *devChallenges.io* challenge and expanded with additional features to better reflect a real-world product.
 
 This project focuses on providing a clean, intuitive, and scalable way for users to organize their work. The original challenge was extended with improvements in functionality, user experience, and design.
 
